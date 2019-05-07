@@ -1,0 +1,144 @@
+   company: dream
+      division: first
+         employees:
+            employe1:
+               name: Olga
+               profession: accounting clerk
+               salary: 10000
+               age: 36
+            employe2:
+               name: Olga
+               profession: accounting clerk
+               salary: 11000
+               age: 34
+            employe3:
+               name: Olga
+               profession: accounting clerk
+               salary: 12000
+               age: 39
+            employe4:
+               name: Olga
+               profession: accounting clerk
+               salary: 10000
+               age: 27
+            employe4:
+               name: Olga
+               profession: accounting clerk
+               salary: 10000
+               age: 27
+            employe5:
+               name: Dmitri
+               profession: unknown
+               salary: 10000
+               age: 32
+            employe6:
+               name: Dmitri
+               profession: unknown
+               salary: 10000
+               age: 31
+            employe7:
+               name: Dmitri 
+               profession: unknown
+               salary: 10000
+               age: 30
+            employe8:
+               name: Ivan
+               profession: unknown
+               salary: 16000
+               age: 27
+            employe9:
+               name: Ivan
+               profession: unknown
+               salary: 10000
+               age: 28
+      division: second
+         employees:
+            employe1:
+               name: Roman
+               profession: law officer
+               salary: 2000
+               age: 28
+            employe2:
+               name: Roman
+               profession: law officer
+               salary: 2000
+               age: 24
+            employe3:
+               name: Roman
+               profession: law officer
+               salary: 2000
+               age: 25
+            employe4:
+               name: Roman
+               profession: law officer
+               salary: 2000
+               age: 27
+            employe5:
+               name: Max
+               profession: driver
+               salary: 2500
+               age: 29
+            employe6:
+               name: Max
+               profession: driver
+               salary: 2500
+               age: 25
+      division: third
+         employees:
+            employe1:
+               name: Olga
+               profession: law officer
+               salary: 10000
+               age: 35
+            employe2:
+               name: Ivan
+               profession: construction worker
+               salary: 11000
+               age: 36
+            employe3:
+               name: Ivan
+               profession: construction worker
+               salary: 12000
+               age: 37
+      division: fourth_and_fifth
+         division: fourth
+            employees:
+               employe1:
+                  name: Julia
+                 profession: office manager
+                 salary: 8000
+                 age: 31
+               employe2:
+                  name: Julia
+                  profession: office manager
+                  salary: 8000
+                  age: 31
+               employe3:
+                  name: Julia
+                  profession: office manager
+                  salary: 8000
+                  age: 33
+               employe4:
+                  name: Julia
+                  profession: office manager
+                  salary: 8000
+                  age: 32
+               employe5:
+                  name: Julia
+                  profession: office manager
+                  salary: 8000
+                  age: 31
+         division: fifth
+            employees:
+               employe1: 
+               name: NOmatter
+               profession: office manager
+               salary: 9500
+               age: 65                         
+      division: sixth
+            employees:
+                employe1: 
+                  name: Ivan Victorvich
+                  profession: safety director
+                  salary: 7000
+                  age: 37
