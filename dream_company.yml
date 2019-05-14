@@ -1,5 +1,6 @@
-   company: dream
-      division: first
+---   
+ - company: dream
+    - division: first
          employees:
             employe1:
                name: Olga
@@ -51,7 +52,7 @@
                profession: unknown
                salary: 10000
                age: 28
-      division: second
+    - division: second
          employees:
             employe1:
                name: Roman
@@ -83,7 +84,7 @@
                profession: driver
                salary: 2500
                age: 25
-      division: third
+    - division: third
          employees:
             employe1:
                name: Olga
@@ -100,7 +101,7 @@
                profession: construction worker
                salary: 12000
                age: 37
-      division: fourth_and_fifth
+    - division: fourth_and_fifth
          division: fourth
             employees:
                employe1:
@@ -128,14 +129,14 @@
                   profession: office manager
                   salary: 8000
                   age: 31
-         division: fifth
-            employees:
-               employe1: 
-               name: NOmatter
-               profession: office manager
-               salary: 9500
-               age: 65                         
-      division: sixth
+            division: fifth
+               employees:
+                  employe1: 
+                  name: NOmatter
+                  profession: office manager
+                 salary: 9500
+                 age: 65                         
+    - division: sixth
             employees:
                 employe1: 
                   name: Ivan Victorvich
